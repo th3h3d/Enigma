@@ -98,7 +98,6 @@ def walkThrough(userInput):
 		pass
 		
 	if rotor2PointerKeeper == 3:
-		pass
 		R3E.rotate(1)
 	else:
 		pass
